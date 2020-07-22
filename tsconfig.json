@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "./.tsbuild/",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "paths": {
+      "@pageObject/*": [
+        "./main/page-objects/*"
+      ],
+      "@data/*": [
+        "./main/data/*"
+      ]
+    },
+    "types": ["node", "@wdio/sync", "@wdio/jasmine-framework", "expect-webdriverio"]
+  },
+  "include": [
+    "./main/**/*.ts"
+  ]
+}
