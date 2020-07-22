@@ -9,17 +9,16 @@ exports.config = {
         },
         ],
     logLevel: 'info',
-    waitforTimeout: 1000,
+    waitforTimeout: 300000,
     framework: 'jasmine',
-    specFileRetries: 1,
-    specFileRetriesDeferred: false,
     reporters: [
         'spec',
     ],
     jasmineNodeOpts: {
-        defaultTimeoutInterval: 5000,
+        defaultTimeoutInterval: 300000,
         jasmineNodeOpts: {
             requires: ['ts-node/register', 'tsconfig-paths/register']
         },
     },
+    services: [['devtools']]
 }

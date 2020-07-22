@@ -7,13 +7,11 @@
     "sourceMap": true,
     "declaration": false,
     "noImplicitAny": false,
+    "baseUrl": ".",
+    "resolveJsonModule": true,
     "paths": {
-      "@pageObject/*": [
-        "./main/page-objects/*"
-      ],
-      "@data/*": [
-        "./main/data/*"
-      ]
+      "@pageObject/*": ["/main/page-objects/*"],
+      "@fixture/*": ["/main/fixture/*"]
     },
     "types": ["node", "@wdio/sync", "@wdio/jasmine-framework", "expect-webdriverio"]
   },
