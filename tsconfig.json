@@ -1,21 +1,22 @@
 {
   "compilerOptions": {
-    "target": "ES6",
-    "outDir": "./.tsbuild/",
+    "target": "es2017",
     "module": "commonjs",
+    "outDir": "./dist",
     "moduleResolution": "node",
-    "sourceMap": true,
-    "declaration": false,
-    "noImplicitAny": false,
-    "baseUrl": ".",
+    "allowJs": true,
+    "baseUrl": "./main",
     "resolveJsonModule": true,
+    "typeRoots" : ["./node_modules/@types"],
     "paths": {
-      "@pageObject/*": ["/main/page-objects/*"],
-      "@fixture/*": ["/main/fixture/*"]
+      "@fixture/*": ["fixture/*"]
     },
     "types": ["node", "@wdio/sync", "@wdio/jasmine-framework", "expect-webdriverio"]
   },
   "include": [
     "./main/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }
