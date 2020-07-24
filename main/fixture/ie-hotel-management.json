@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "product_id": 43532,
+      "vendor_id": 19708,
+      "industry_id": 25,
+      "name": "Rtuwik made it",
+      "status": "active",
+      "public_status": "briefed",
+      "nb_recommendations": 30,
+      "nb_reviews": 75,
+      "avg_rating": "4.50",
+      "noindex": 0,
+      "canonical_url": "",
+      "logo_w": 136,
+      "logo_h": 27,
+      "logo_small_w": 106,
+      "logo_small_h": 21,
+      "screenshots": -1,
+      "uri": "hotel-management/cloudbeds-profile/",
+      "title_tag": "",
+      "title_h1": "",
+      "desc_meta": "Review of Cloudbeds Software: system overview, features, price and cost information. Get free demos and compare to similar programs.",
+      "desc_short": "",
+      "desc_long": "<p>Cloudbeds is a cloud-based hotel management solution suitable for small to midsize hotels, vacation rentals, hostels and B&amp;Bs. Key features include front office management, central reservations, housekeeping management, online booking engine, customer relationship management (CRM), business intelligence and retail point of sale.</p>\r\n<p>Cloudbeds is able to receive reservations from a number of channels, including OTAs like Booking.com and Expedia, Facebook, an online booking engine or from walk-in customers. The solution offers a drag-and-drop calendar of all rooms and reservations, and users can see who changed, canceled, created, moved or adjusted a reservation.</p>\r\n<p>Inventory can be synced automatically from the solution to booking engines, OTAs and other online marketplaces. The solution offers support for multiple languages and currencies. Users can set up taxes, fees and policies to be applied per room, per item or in a custom combination.</p>",
+      "industry_snippet": "",
+      "partner_snippet": "",
+      "sizes": [
+        "258",
+        "259",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264"
+      ],
+      "external_uri": "https://www.cloudbeds.com/hotels/",
+      "sales_hotline": "619-866-5920",
+      "master_product_id": 0,
+      "hide_pricing": 0,
+      "inactive_action": "301",
+      "inactive_redirect": "https://www.softwareadvice.com/hotel-management/",
+      "is_international": 0,
+      "price_range": 2,
+      "org_size": "S,M",
+      "modified_at": "2020-07-18 21:00:17",
+      "last_sync": "2019-02-12 21:02:49",
+      "final_product_id": 43532,
+      "is_capterra": 1,
+      "bid_position": 1,
+      "product_snippet": "",
+      "great_fit": 0,
+      "exception": 0,
+      "deployments": [
+        "1",
+        "4"
+      ],
+      "operating_systems": [
+        "Mac OS",
+        "Web browser (OS agnostic)",
+        "Windows 10"
+      ],
+      "click_url": "2111255/158839/hpm/aHR0cHM6Ly93d3cuY2xvdWRiZWRzLmNvbS9scC9ob3NwaXRhbGl0eS1wcm9wZXJ0eS1tYW5hZ2VtZW50Lz91dG1fY2FtcGFpZ249Y2FwdGVycmFfaG9zcGl0YWxpdHlfbWFuYWdlbWVudCZ1dG1fbWVkaXVtPWNwYw==?ds=26CC05A5B95691B61174CB515FE1FF31663D8695",
+      "is_ppl": true,
+      "videos": [
+        {
+          "video_id": 697391,
+          "wistia_video_id": "0xyeovn3h3",
+          "notes": "",
+          "screenshot": "managed/products/video_screenshots/screen_shot_2019-09-04_at_3_28_40_pm.png?w=147&h=117&fit=scale"
+        }
+      ],
+      "subsizes1": [
+        "188",
+        "189",
+        "190",
+        "191",
+        "192",
+        "193",
+        "194"
+      ],
+      "subsizes2": [
+        "158",
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164"
+      ],
+      "segments": [
+        "799",
+        "800",
+        "810",
+        "811",
+        "812",
+        "813",
+        "814",
+        "815",
+        "816",
+        "817",
+        "818",
+        "819",
+        "853"
+      ],
+      "operating_systems_formatted": {
+        "web": true,
+        "mac": true,
+        "windows": true,
+        "linux": false
+      },
+      "deployments_formatted": {
+        "cloud": true,
+        "desktop": false
+      },
+      "org_size_formatted": {
+        "small": true,
+        "medium": true,
+        "large": false
+      },
+      "logos": {
+        "small": {
+          "logo_type": "small",
+          "width": 106,
+          "height": 85,
+          "deleted": 0,
+          "product_id": 43532,
+          "image_id": 8615,
+          "filepath": "https://software-advice-dev.imgix.net/managed/products/logos/logo_43532_hd.png?auto=format&w=106"
+        },
+        "medium": {
+          "logo_type": "medium",
+          "width": 136,
+          "height": 68,
+          "deleted": 0,
+          "product_id": 43532,
+          "image_id": 8615,
+          "filepath": "https://software-advice-dev.imgix.net/managed/products/logos/logo_43532_hd.png?auto=format&w=136"
+        },
+        "big": {
+          "logo_type": "big",
+          "width": 220,
+          "height": 110,
+          "deleted": 0,
+          "product_id": 43532,
+          "image_id": 8615,
+          "filepath": "https://software-advice-dev.imgix.net/managed/products/logos/logo_43532_hd.png?auto=format&w=220"
+        },
+        "hd": {
+          "logo_type": "hd",
+          "width": 310,
+          "height": 170,
+          "deleted": 0,
+          "product_id": 43532,
+          "image_id": 8615,
+          "filepath": "https://software-advice-dev.imgix.net/managed/products/logos/logo_43532_hd.png?auto=format&w=310"
+        }
+      },
+      "statistics": {
+        "recommendation_score": "8.50",
+        "total_reviews": 157,
+        "latest_review_date": "2020-06-22 22:50:25",
+        "overall_score": "4.50",
+        "overall_score_exact": "4.54",
+        "overall_review_nb_reviews": 157,
+        "ease_of_use_score": "4.50",
+        "ease_of_use_nb_reviews": 154,
+        "functionality_score": "4.50",
+        "functionality_nb_reviews": 154,
+        "customer_support_score": "4.50",
+        "customer_support_nb_reviews": 150,
+        "value_for_money_score": "4.50",
+        "value_for_money_nb_reviews": 149,
+        "recommendation_nb_reviews": 146,
+        "nb_reviews_sa": null,
+        "nb_reviews_other": null,
+        "nb_overall_quality_0star": null,
+        "nb_overall_quality_1star": null,
+        "nb_overall_quality_2star": null,
+        "nb_overall_quality_3star": null,
+        "nb_overall_quality_4star": null,
+        "nb_overall_quality_5star": null
+      },
+      "snippet": {
+        "text": "Cloudbeds is a cloud-based hotel management solution suitable for small to midsize hotels, vacation rentals, hostels and B&Bs. Key features include front office management, central reservations, housekeeping management, online booking...",
+        "is_cut": true
+      },
+      "urls": {
+        "logo": {
+          "capterra": "https://main.capstage.net/external_click_sa/category-upgraded-visit-website-button/1/2111255/158839/hpm/aHR0cHM6Ly93d3cuY2xvdWRiZWRzLmNvbS9scC9ob3NwaXRhbGl0eS1wcm9wZXJ0eS1tYW5hZ2VtZW50Lz91dG1fY2FtcGFpZ249Y2FwdGVycmFfaG9zcGl0YWxpdHlfbWFuYWdlbWVudCZ1dG1fbWVkaXVtPWNwYw==?ds=26CC05A5B95691B61174CB515FE1FF31663D8695",
+          "softwareadvice": "hotel-management/cloudbeds-profile/"
+        },
+        "name": {
+          "capterra": "https://main.capstage.net/external_click_sa/category-upgraded-visit-website-button/1/2111255/158839/hpm/aHR0cHM6Ly93d3cuY2xvdWRiZWRzLmNvbS9scC9ob3NwaXRhbGl0eS1wcm9wZXJ0eS1tYW5hZ2VtZW50Lz91dG1fY2FtcGFpZ249Y2FwdGVycmFfaG9zcGl0YWxpdHlfbWFuYWdlbWVudCZ1dG1fbWVkaXVtPWNwYw==?ds=26CC05A5B95691B61174CB515FE1FF31663D8695",
+          "softwareadvice": "hotel-management/cloudbeds-profile/"
+        },
+        "visit_website_cta": {
+          "capterra": "https://main.capstage.net/external_click_sa/category-upgraded-visit-website-button/1/2111255/158839/hpm/aHR0cHM6Ly93d3cuY2xvdWRiZWRzLmNvbS9scC9ob3NwaXRhbGl0eS1wcm9wZXJ0eS1tYW5hZ2VtZW50Lz91dG1fY2FtcGFpZ249Y2FwdGVycmFfaG9zcGl0YWxpdHlfbWFuYWdlbWVudCZ1dG1fbWVkaXVtPWNwYw==?ds=26CC05A5B95691B61174CB515FE1FF31663D8695",
+          "softwareadvice": "https://www.cloudbeds.com/hotels/"
+        }
+      },
+      "statusIsActive": true,
+      "hasVideos": true,
+      "frontrunners": {
+        "product_capabilities_score": 8.7822580000000005640004019369371235370635986328125,
+        "customer_satisfaction_score": 5.7049859999999998905195752740837633609771728515625,
+        "current": true,
+        "edition": "2020-02-24"
+      },
+      "youtube_video_id": null
+    }
+  ],
+  "total-count": 1,
+  "data-type": "list"
+}

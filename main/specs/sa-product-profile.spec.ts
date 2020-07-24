@@ -1,4 +1,4 @@
-const propertyProducts = require('@fixture/propertyProducts.json');
+const propertyProducts = require('@fixture/property-charleston.json');
 
 describe( 'testMock',  () => {
 
