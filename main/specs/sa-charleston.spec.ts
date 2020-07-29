@@ -1,8 +1,8 @@
 const propertyProducts = require('@fixture/property-charleston.json');
 
-describe( 'testMock',  () => {
+describe( 'Mock API pn charleston page',  () => {
 
-    it('should have the right title', () => {
+    it('This mocks the products list after selecting a filter on charleston page', () => {
         const mock = browser.mock('https://categories-api.softwareadvice.com/categories/7/products',
             {
                 method: 'post',
