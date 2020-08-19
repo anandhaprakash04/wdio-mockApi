@@ -3,7 +3,9 @@ const in_hotel_management = require('@fixture/in-hotel-management.json');
 describe( 'This test mocks api response of India category pages ',  () => {
 
     it('Should check Ireland Category page', () => {
+        // @ts-ignore
         browser.cdp('Network', 'enable');
+        // @ts-ignore
         browser.on('Network.responseReceived', (params) => {
             if(params.response.url.toString().includes('products-api')) {
                 console.log(`Loaded ${params.response.url}`);
@@ -17,7 +19,6 @@ describe( 'This test mocks api response of India category pages ',  () => {
         browser.url('https://www.softwareadvice.com/hotel-management/?automated=true');
         browser.pause(10000);
         console.log(mock.calls.length);
-        browser.debug();
     })
 });
 

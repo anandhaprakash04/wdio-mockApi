@@ -4,7 +4,8 @@
   "description": "This repo is used to practice wdio dev tools",
   "main": "index.js",
   "scripts": {
-    "test": "wdio ./wdio.config.js"
+    "test": "npx wdio configs/wdio.config.js",
+    "btest": "npx wdio configs/bstack.config.js"
   },
   "repository": {
     "type": "git",
@@ -29,5 +30,9 @@
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.9.7",
     "webdriverio": "^6.3.4"
+  },
+  "dependencies": {
+    "@wdio/browserstack-service": "^6.1.15",
+    "@wdio/selenium-standalone-service": "^6.4.0"
   }
 }

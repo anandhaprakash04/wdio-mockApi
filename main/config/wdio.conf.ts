@@ -1,14 +1,21 @@
 
-exports.config = {
+export const config = {
     specs: [
         './main/specs/*.spec.ts',
     ],
     maxInstances: 10,
     capabilities: [{
-            browserName: 'chrome'
+        'browserName': 'chrome',
+        'goog:chromeOptions': {
+            args: [
+                '--incognito',
+                '--start-maximized',
+                '--enable-features=NetworkService,NetworkServiceInProcess',
+            ],
         },
-        ],
-    logLevel: 'info',
+    }],
+    logLevel: 'error',
+    coloredLogs: true,
     waitforTimeout: 300000,
     framework: 'jasmine',
     reporters: [
@@ -20,5 +27,5 @@ exports.config = {
             require: ['ts-node/register', 'tsconfig-paths/register']
         },
     },
-    services: [['devtools']]
+    services: [['selenium-standalone']]
 }
